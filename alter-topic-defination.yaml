@@ -1,4 +1,6 @@
 topics:
-  - name: riya 
-   partitions: 12
+
+
+  - name: riya
+    partitions: 12
 
